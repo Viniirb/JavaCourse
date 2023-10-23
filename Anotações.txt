@@ -1,0 +1,7 @@
+Anotações do Curso de JAVA
+- WORA - Write Once,  Run Anywhere
+- Linguagem Multiplataforma
+- Código Fonte ( Class Pessoa {} ) => JAVAC (compilador) => ByteCode => JVM - JAVA Vitual Machine ( cada sistema operacional tem a sua ), não pode se instalar sozinho, necessita do JRE e JDK.
+- Linguagem compilada? ou interpretada? Resposta: As duas coisas.
+- JRE - JAVA Runtime Environment => ( Bibliotecas, Suporte e Recursos )
+- JDK - JAVA Developement Kit => ( Ferramentas e Utilitários , Tudo que tem no JRE, Java Tools { JAVAC, Debugger } )
